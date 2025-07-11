@@ -1,0 +1,13 @@
+{
+	"Stack": {
+		"title": "Stack",
+		"description": ""
+	},
+	"Countries": {
+		"title": "Countries",
+		"description": "Danh sách các quốc gia có chi nhánh của tập đoàn KJC"
+	},
+	"Footer": {
+		"projectBy": "Được tạo bởi"
+	}
+}

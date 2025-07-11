@@ -1,0 +1,13 @@
+{
+	"Stack": {
+		"title": "Stack",
+		"description": ""
+	},
+	"Countries": {
+		"title": "Countries",
+		"description": "List of countries with branches of KJC Group"
+	},
+	"Footer": {
+		"projectBy": "A project by"
+	}
+}
