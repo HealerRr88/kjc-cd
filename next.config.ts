@@ -4,7 +4,7 @@ import createNextIntlPlugin from "next-intl/plugin"
 const nextConfig: NextConfig = {
 	reactStrictMode: true,
 	experimental: {
-		optimizeCss: false // 👈 Tắt lightningcss
+		optimizeCss: false
 	},
 	eslint: {
 		ignoreDuringBuilds: true
