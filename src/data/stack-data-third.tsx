@@ -7,6 +7,7 @@ export const stackDataThird = [
 	{
 		name: "vietnam",
 		title: "Việt Nam",
+		link: "https://Kjcvn.com",
 		icon: (
 			<Image
 				src="/images/kjc-vietnam.gif"
@@ -21,6 +22,7 @@ export const stackDataThird = [
 	{
 		name: "brazil",
 		title: "Brazil",
+		link: "",
 		icon: (
 			<Image
 				src="/images/kjc-brazil.gif"
@@ -35,6 +37,7 @@ export const stackDataThird = [
 	{
 		name: "philippines",
 		title: "Philippines",
+		link: "",
 		icon: (
 			<Image
 				src="/images/kjc-philippine.gif"
@@ -49,6 +52,7 @@ export const stackDataThird = [
 	{
 		name: "myanmar",
 		title: "Myanmar",
+		link: "",
 		icon: (
 			<Image
 				src="/images/kjc-myanmar.gif"
@@ -63,6 +67,7 @@ export const stackDataThird = [
 	{
 		name: "pakistan",
 		title: "Pakistan",
+		link: "",
 		icon: (
 			<Image
 				src="/images/kjc-pakistan.gif"
