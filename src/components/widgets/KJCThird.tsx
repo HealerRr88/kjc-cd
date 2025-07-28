@@ -7,7 +7,7 @@ export const KJCThird = () => {
 			<div className="sm:w-auto w-[350px] m-auto">
 				<Balancer as="h1" className="text-center text-gray-500 md:text-xl">
 					<Image
-						src="/images/kjc-logo-3.png"
+						src="/images/logo-kjc-juventus.png"
 						alt="kjc logo"
 						title="kjc logo"
 						width={686}
