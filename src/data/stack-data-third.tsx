@@ -7,7 +7,7 @@ export const stackDataThird = [
 	{
 		name: "vietnam",
 		title: "Việt Nam",
-		link: "https://Kjcvn.com",
+		link: "https://kjcvn.group",
 		icon: (
 			<Image
 				src="/images/kjc-vietnam.gif"
